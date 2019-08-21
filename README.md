@@ -1,4 +1,4 @@
 # hello-world
 
-Hello All
+Hello World
 This is Suchismita. I'm new to Devops.
